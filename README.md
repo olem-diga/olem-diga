@@ -31,19 +31,19 @@
       <img align="left" width=350 src="https://github-readme-streak-stats.herokuapp.com?user=olem-diga&theme=dark&border=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=olem-diga&show_icons=true&theme=dark&border_color=61dafb&hide_border=true" />
+      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=olem-diga&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
     </a>
   
   </div>
  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olem-diga&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olem-diga&theme=radical&title_color=8E2DE2&text_color=fff" />
     </a>
   </div>
   <br>
  <div align=center>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=olem-diga&theme=dark&bg_color=20232a&hide_border=true" width="100%"/>
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=olem-diga&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
   </div>
   </p>
 

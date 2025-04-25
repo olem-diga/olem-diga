@@ -1,4 +1,4 @@
-<h1 align="center"> Hey There 👋, I'm Phemelo Modiga. </h1>
+<h1 align="center"> Hey There 👋, I'm Olem Diga. </h1>
 
 <div align="center">
  
@@ -15,20 +15,13 @@
 - 👨‍🎓 And planing to learn many more... <br>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
+
+![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
+
 <br>
-<div>
-  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-
-![Microsoft Exel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-</div>
 
 <h2 align="center">⚡ My Github Stats ⚡</h2>
 <br>

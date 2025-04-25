@@ -11,8 +11,8 @@
 <br>
 - 📍Im currently located in Pretoria, South Africa <br>
 - 💻 I’m interested in {... Interests Goes Here} <br>
-- 📚 I’m currently learning The C++ Programming Language. <br>
-- 👨‍🎓 And planing to learn many more... <br>
+- 📚 I’m currently learning The C Programming Language. <br>
+- 👨‍🎓 And planning to learn many more... <br>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 

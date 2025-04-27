@@ -1,4 +1,4 @@
-<h1 align="center"> Hey There 👋, I'm Olem Diga. </h1>
+<h1 align="center"> Hey There 👋, I'm Olem Diga. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
 <div align="center">
  

@@ -28,17 +28,17 @@
 <p align=center>
  <div align=center>
     <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="left" width=350 src="https://github-readme-streak-stats.herokuapp.com?user=olem-diga&theme=dark&border=61dafb&hide_border=true" />
+      <img align="left" width=350 src="https://github-readme-streak-stats.herokuapp.com?user=olem-diga&theme=radical&border=61dafb&hide_border=true" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/olem-diga/github-readme-stats" title="Go to Source">
       <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=olem-diga&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
     </a>
   
   </div>
  <br><br><br><br><br><br><br><br><br>
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olem-diga&theme=radical&title_color=8E2DE2&text_color=fff" />
+    <a href="https://github.com/olem-diga/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olem-diga&theme=radical&title_color=8E2DE2&text_color=fff"/>
     </a>
   </div>
   <br>

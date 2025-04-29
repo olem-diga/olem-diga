@@ -1,9 +1,6 @@
 <h1 align="center"> Hey There 👋, I'm Olem Diga. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
 <div align="center">
- 
-</div>
-<div align="center">
      <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="600" height="300"/>
 </div>
 
@@ -24,27 +21,28 @@
 <br>
 
 <h2 align="center">⚡ My Github Stats ⚡</h2>
+
 <br>
-<p align=center>
- <div align=center>
-    <a href="https://git.io/streak-stats" title="Go to Source">
-      <img align="left" width=350 src="https://github-readme-streak-stats.herokuapp.com?user=olem-diga&theme=radical&border=61dafb&hide_border=true" />
-    </a>
-    <a href="https://github.com/olem-diga/github-readme-stats" title="Go to Source">
-      <img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=olem-diga&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
-    </a>
-  
-  </div>
- <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/olem-diga/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olem-diga&theme=radical&title_color=8E2DE2&text_color=fff"/>
-    </a>
-  </div>
-  <br>
- <div align=center>
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=olem-diga&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
-  </div>
-  </p>
+
+<p align="center">
+	<div align="center">
+		<a href="https://git.io/streak-stats" title="Go to Source">
+			<img align="left" width=350 src="https://github-readme-streak-stats.herokuapp.com?user=olem-diga&theme=radical&border=61dafb&hide_border=true" />
+		</a>
+		<a href="https://github.com/olem-diga/github-readme-stats" title="Go to Source">
+			<img align="right" width=350 src="https://github-readme-stats.vercel.app/api?username=olem-diga&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
+		</a>
+	</div>
+	 <br><br><br><br><br><br><br><br><br>
+	<div align="center">
+		<a href="https://github.com/olem-diga/github-readme-stats">
+			<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olem-diga&theme=radical&title_color=8E2DE2&text_color=fff"/>
+		</a>
+	</div>
+	<br>
+	<div align=center>
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=olem-diga&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
+	</div>
+</p>
 
 ---
